@@ -1,0 +1,1 @@
+INDEX VERSION 1.130+X:\Assignments\Software Implementation\Hotel\.metadata\.plugins\org.eclipse.jdt.core
